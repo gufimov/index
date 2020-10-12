@@ -13,6 +13,6 @@ Then you can use online stream app like VLC or MXPlayer.
 </br>
 <br>
 ***Ans*** :- <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc">
-VLC </a> is one best for it you can also use </a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad"
-MX Player </a> if it is installed 
+VLC </a> is one best for it you can also use <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad">
+MX Player </a> if it is installed .
 </br>
